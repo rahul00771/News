@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "BrunoAce";
+    src: url("../public/fonts/BrunoAce.ttf");
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    /* font-family: BrunoAce; */
+    color: black;
+}
